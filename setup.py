@@ -62,7 +62,7 @@ setup(
     #
     # This field corresponds to the "Home-Page" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#home-page-optional
-    url='zhuvka.ru',  # Optional
+    url='https://github.com/thefrol/microyc',  # Optional
 
     # This should be your name or the name of the organization which owns the
     # project.
@@ -185,7 +185,7 @@ setup(
     # maintainers, and where to support the project financially. The key is
     # what's used to render the link text on PyPI.
     project_urls={  # Optional
-        'Project': 'zhuvka.ru',
+        'GitHub': 'https://github.com/thefrol/microyc',
 
     },
 )
