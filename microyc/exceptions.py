@@ -1,0 +1,2 @@
+def NotFound(Exception):
+    pass
