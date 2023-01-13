@@ -4,6 +4,10 @@ minimalistic sdk for operating with yandex.cloud
 
 project currently abandonned for nanoyc project, but still works fine
 
+## Installation
+
+Just as simple as `pip install microyc`
+
 ## Authorization
 
 for Amazon services autorize like with boto3
